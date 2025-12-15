@@ -1,0 +1,8 @@
+node_modules
+.vscode
+.env
+backend/.venv
+__pycache__
+*.pyc
+frontend/dist
+backend/data
